@@ -6,7 +6,7 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/a1-t1/common/pkg/timeutils"
+	"github.com/almahata/common/pkg/timeutils"
 	"github.com/go-chi/chi/v5"
 )
 

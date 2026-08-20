@@ -4,7 +4,7 @@ import (
 	"net/http"
 	"strconv"
 
-	"github.com/a1-t1/common/pkg/utils"
+	"github.com/almahata/common/pkg/utils"
 )
 
 func OffsetAndLimitFromRequest(r *http.Request) (int64, int64) {

@@ -1,4 +1,4 @@
-module github.com/a1-t1/common
+module github.com/almahata/common
 
 go 1.22.2
 

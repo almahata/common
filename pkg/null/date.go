@@ -8,7 +8,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/a1-t1/common/pkg/timeutils"
+	"github.com/almahata/common/pkg/timeutils"
 )
 
 type Date struct {
